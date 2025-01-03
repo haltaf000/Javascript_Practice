@@ -12,7 +12,7 @@ sqlite3 practice.db ".read phase-3/query-1.sql"
 sqlite3 practice.db ".read phase-3/query-2.sql"
 ```
 
-## Find Hermione's cats
+## Find Hermione's cats trying something new
 
 Write a query to find all the cats' names for the owner with the first name of
 "Hermione". **You must do this in one query.** If you have trouble doing it in
